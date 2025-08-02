@@ -32,11 +32,7 @@ Netflix_project/
 
 ---
 
-## 📊 Power BI Dashboard Preview
 
-A Power BI dashboard snapshot included for enhanced storytelling:
-
-![Power BI Dashboard](visuals/image.png)
 
 ---
 
@@ -86,3 +82,4 @@ LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/veerendra-kumar-7615b23
 - Build practical experience in data cleaning and EDA
 - Create interactive dashboards using Streamlit
 - Showcase real-world skills in data storytelling
+
